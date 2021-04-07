@@ -8,3 +8,5 @@ To get started, let's return to our number guessing game — except this time we
 At this point, let's consult the developer console to see if it reports any syntax errors, then try to fix them. You'll learn how below.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
+
+https://gitthuma.github.io/guess-the-number-errors/
