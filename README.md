@@ -9,4 +9,4 @@ At this point, let's consult the developer console to see if it reports any synt
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_went_wrong
 
-https://gitthuma.github.io/guess-the-number-errors/
+Live web: https://gitthuma.github.io/guess-the-number-errors/
